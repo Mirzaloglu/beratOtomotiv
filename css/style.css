@@ -1,7 +1,6 @@
 body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    overflow-x: hidden;
 }
 
 /* Navbar */
@@ -46,6 +45,10 @@ body {
 .neden-biz-p {
     font-size: 25px;
     color: grey;
+}
+
+.row {
+    margin: 0;
 }
 
 /* Sizden Gelenler */
